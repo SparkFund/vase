@@ -1,5 +1,5 @@
 (ns com.cognitect.vase.spec
-  "Contains the spec definitions for the Vase
+  "Contains the clojure.spec definitions for the Vase
    application specification."
   (:require [io.pedestal.interceptor :as interceptor]
             [clojure.spec.alpha :as s]
